@@ -13,8 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    @Override
-    public Object getSystemService(@NonNull String name) {
-        return super.getSystemService(name);
+
     }
-}
